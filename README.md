@@ -1,5 +1,9 @@
-# 💫 I'm Abdul Qadir:
-1. Complet my Bsc in Computer Science with a specialization in Artificial Intelligence and Machine Learning. I’m building projects that apply machine learning and data analytics to solve practical problems.I’m building projects that apply machine learning and data analytics to solve practical problems.<br>I’m building projects that apply machine learning and data analytics to solve practical problems.<br> 2. Deep learning frameworks (TensorFlow, PyTorch), advanced SQL, and data visualization tools like Power BI and Matplotlib. I’m also strengthening my knowledge in data engineering and statistical modeling.<br>3. Python, SQL, data preprocessing, exploratory data analysis, dashboard creation, and applying AI/ML concepts to analytics.<br>4.I enjoy uncovering hidden patterns in datasets—it feels like solving a puzzle where every insight tells a story.
+📊 Data Scientist | Data Analyst | Python • SQL • Power BI | AI & Business Insights Enthusiast 🚀
+# 🌟 About Me
+🎓 Passionate about Data Science, AI & Business Analytics
+🐍 Skilled in Python, SQL, Machine Learning, Data Visualization
+📊 Experienced in Power BI, Tableau, Advanced Excel
+🤖 Exploring NLP, AI-powered chatbots, and deep learning projects
 
 
 ## 🌐 Socials:
