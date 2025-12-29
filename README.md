@@ -1,9 +1,9 @@
-📊 Data Scientist | Data Analyst | Python • SQL • Power BI | AI & Business Insights Enthusiast 🚀
+# 📊 Data Scientist | Data Analyst | Python • SQL • Power BI | AI & Business Insights Enthusiast 🚀
 # 🌟 About Me
-🎓 Passionate about Data Science, AI & Business Analytics
-🐍 Skilled in Python, SQL, Machine Learning, Data Visualization
-📊 Experienced in Power BI, Tableau, Advanced Excel
-🤖 Exploring NLP, AI-powered chatbots, and deep learning projects
+* 🎓 Passionate about Data Science, AI & Business Analytics
+* 🐍 Skilled in Python, SQL, Machine Learning, Data Visualization
+* 📊 Experienced in Power BI, Tableau, Advanced Excel
+* 🤖 Exploring NLP, AI-powered chatbots, and deep learning projects
 
 
 ## 🌐 Socials:
