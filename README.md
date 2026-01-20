@@ -3,11 +3,17 @@
   
 
 <h3>📊 Data Scientist | Data Analyst | Python • SQL • Power BI | AI & Business Insights Enthusiast 🚀</h3>
-  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Data-Driven+Decision+Maker;Interactive+Dashboards+%7C+KPIs+%7C+3D+Charts;AI+Agents+%7C+Workflow+Automation;Python+%7C+SQL+%7C+Power+BI+%7C+n8n;Turning+Data+Into+Business+Impact" />
+</p>
+  <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
 ___
 
 
-
+<img align="right" width="350" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 ## 🌟 About Me :
 * 🎓 Passionate about Data Science, AI & Business Analytics
 * 🐍 Skilled in Python, SQL, Machine Learning, Data Visualization
@@ -17,8 +23,8 @@ ___
 
 ## 🌐 Socials:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-qadir-211560317) 
-* [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulqadir9975@gmail.com)
-
+* [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulqadir9975@gmail.com)# 🎙️ AI Voice Agents & Conversational AI (NEW)
+  
 # 💻 Tech Stack:
 # IDE
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
