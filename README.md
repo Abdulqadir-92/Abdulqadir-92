@@ -23,7 +23,8 @@ ___
 
 ## 🌐 Socials:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-qadir-211560317) 
-* [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulqadir9975@gmail.com)# 🎙️ AI Voice Agents & Conversational AI (NEW)
+* [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulqadir9975@gmail.com)
+
   
 # 💻 Tech Stack:
 # IDE
